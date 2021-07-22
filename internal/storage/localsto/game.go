@@ -6,7 +6,7 @@ import (
 	"github.com/matiasvarela/minesweeper/pkg/apperrors"
 
 	"github.com/matiasvarela/minesweeper/internal/game"
-	"github.com/prologic/bitcask"
+	"git.mills.io/prologic/bitcask"
 )
 
 type GameStorage struct {
